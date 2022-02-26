@@ -1,5 +1,5 @@
 # ninja log v5
-384	459	1645908191068942667	MainProject/src/MainProject	253d2997d8b5e11d
-381	427	1645906320554160936	Lib/src/libLib.a	6a33ca99a77990f1
-0	381	1645906320509161228	Lib/src/CMakeFiles/Lib.dir/player.cpp.o	71beb1f98550e8e9
 1	384	1645908190994943172	MainProject/src/CMakeFiles/MainProject.dir/main.cpp.o	f8549914dd21e7d6
+0	381	1645906320509161228	Lib/src/CMakeFiles/Lib.dir/player.cpp.o	71beb1f98550e8e9
+381	427	1645906320554160936	Lib/src/libLib.a	6a33ca99a77990f1
+384	459	1645908191068942667	MainProject/src/MainProject	253d2997d8b5e11d

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hvlife/Documents/Programming/CPP/CMakeProj/build",
+  "command": "/bin/c++ -I/home/hvlife/Documents/Programming/CPP/CMakeProj/MainProject/inc -I/home/hvlife/Documents/Programming/CPP/CMakeProj/Lib/inc -g -o MainProject/src/CMakeFiles/MainProject.dir/main.cpp.o -c /home/hvlife/Documents/Programming/CPP/CMakeProj/MainProject/src/main.cpp",
+  "file": "/home/hvlife/Documents/Programming/CPP/CMakeProj/MainProject/src/main.cpp"
+},
+{
+  "directory": "/home/hvlife/Documents/Programming/CPP/CMakeProj/build",
+  "command": "/bin/c++ -I/home/hvlife/Documents/Programming/CPP/CMakeProj/Lib/inc -g -o Lib/src/CMakeFiles/Lib.dir/player.cpp.o -c /home/hvlife/Documents/Programming/CPP/CMakeProj/Lib/src/player.cpp",
+  "file": "/home/hvlife/Documents/Programming/CPP/CMakeProj/Lib/src/player.cpp"
+}
+]
